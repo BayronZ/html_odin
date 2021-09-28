@@ -1,1 +1,1 @@
-var main = false
+var main = true
